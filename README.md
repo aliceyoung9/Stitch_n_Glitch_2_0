@@ -91,4 +91,4 @@ Raise one or both of the figures to try to create very large cross-stitch files 
 - DMC floss to RGB/HEX conversion from a document at http://www.radicalcrossstitch.com/DMCFloss-RGBvalues.html
 - Dithering algorithms ported to *Processing* from the Macro code found at http://fiji.sc/wiki/index.php/Dithering
 - Many thanks to the Processing community for sharing their knowledge.
-- Project inspired by the *Lost Threads* research project and [blog](http://lost threads.tumblr.com)
+- Project inspired by the *Lost Threads* research project and [blog](http://lostthreads.tumblr.com)
